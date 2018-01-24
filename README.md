@@ -1,1 +1,2 @@
-# css-properties
+# css-exercise-two
+Assignment for Fundamentals
